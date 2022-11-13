@@ -30,7 +30,7 @@
 
 - [ ]  Añadir o remover juegos, (String) / (ArrayList\<String\>).
 - [ ]  Conseguir un objeto juego por su nombre, (String) → (Videojuego).
-- [ ]  Conseguir un listado de juegos por medio de uno o más generos, (String) / (ArrayList\<String\>) → (ArrayList\<Videojuego\>).
-- [ ]  Devolver una lista ordenada de los juegos basándonos en el número
+- [ ]  Conseguir un listado de juegos por medio de uno o mas generos, (String) / (ArrayList\<String\>) → (ArrayList\<Videojuego\>).
+- [ ]  Devolver una lista ordenada de los juegos basándonos en el numero
 de jugadores activos, → ArrayList\<Videojuego\>.
 - [ ]  Conseguir los juegos que estén entre dos valores dados de precios, (Double, Double) → (ArrayList\<Videojuego\>).
