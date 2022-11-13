@@ -1,6 +1,6 @@
 ![Diagrama](https://github.com/santiagosimonsantos/Taller-introductorio-a-la-Programacion-Orientada-a-Objetos-con-Java/blob/main/Diagrama.svg)
 
-## ROADMAP TIENDA DE VIDEOJUEGOS
+# ROADMAP TIENDA DE VIDEOJUEGOS
 
 ## ROADMAP VIDEOJUEGO
 
