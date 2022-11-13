@@ -5,18 +5,18 @@
 ## Atributos
 
 - [ ]  Nombre, String.
-- [ ]  Listado de géneros, ArrayList\<String\>.
+- [ ]  Listado de generos, ArrayList\<String\>.
 - [ ]  Número de jugadores, Integer.
 - [ ]  Precio, Double.
 
-## Métodos
+## Metodos
 
 - [ ]  Devolver el nombre del juego, → String.
 - [ ]  Cambiar el nombre del juego,  (String).
-- [ ]  Conseguir el listado de géneros a los que pertenece, → ArrayList\<String\>.
-- [ ]  Añadir o remover géneros del listado, (String) / (ArrayList\<String\>).
-- [ ]  Conseguir el número de jugadores, → Integer.
-- [ ]  Cambiar el número de jugadores, (Integer).
+- [ ]  Conseguir el listado de generos a los que pertenece, → ArrayList\<String\>.
+- [ ]  Añadir o remover generos del listado, (String) / (ArrayList\<String\>).
+- [ ]  Conseguir el numero de jugadores, → Integer.
+- [ ]  Cambiar el numero de jugadores, (Integer).
 - [ ]  Conseguir el precio, → Double.
 - [ ]  Cambiar el precio, (Double).
 
@@ -26,11 +26,11 @@
 
 - [ ]  Lista de juegos, ArrayList\<String\>.
 
-## Métodos
+## Metodos
 
 - [ ]  Añadir o remover juegos, (String) / (ArrayList\<String\>).
 - [ ]  Conseguir un objeto juego por su nombre, (String) → (Videojuego).
-- [ ]  Conseguir un listado de juegos por medio de uno o más géneros, (String) / (ArrayList\<String\>) → (ArrayList\<Videojuego\>).
+- [ ]  Conseguir un listado de juegos por medio de uno o más generos, (String) / (ArrayList\<String\>) → (ArrayList\<Videojuego\>).
 - [ ]  Devolver una lista ordenada de los juegos basándonos en el número
 de jugadores activos, → ArrayList\<Videojuego\>.
 - [ ]  Conseguir los juegos que estén entre dos valores dados de precios, (Double, Double) → (ArrayList\<Videojuego\>).
