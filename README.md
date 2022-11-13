@@ -1,3 +1,5 @@
+![Diagrama](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg)
+
 # ROADMAP TIENDA DE VIDEOJUEGOS
 
 # ROADMAP VIDEOJUEGO
