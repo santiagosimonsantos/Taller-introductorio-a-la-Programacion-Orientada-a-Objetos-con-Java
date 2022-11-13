@@ -1,17 +1,17 @@
 ![Diagrama](https://github.com/santiagosimonsantos/Taller-introductorio-a-la-Programacion-Orientada-a-Objetos-con-Java/blob/main/Diagrama.svg)
 
-# ROADMAP TIENDA DE VIDEOJUEGOS
+## ROADMAP TIENDA DE VIDEOJUEGOS
 
-# ROADMAP VIDEOJUEGO
+## ROADMAP VIDEOJUEGO
 
-## Atributos
+### Atributos
 
 - [ ]  Nombre, String.
 - [ ]  Listado de generos, ArrayList\<String\>.
 - [ ]  Número de jugadores, Integer.
 - [ ]  Precio, Double.
 
-## Metodos
+### Metodos
 
 - [ ]  Devolver el nombre del juego, → String.
 - [ ]  Cambiar el nombre del juego,  (String).
@@ -22,13 +22,13 @@
 - [ ]  Conseguir el precio, → Double.
 - [ ]  Cambiar el precio, (Double).
 
-# ROADMAP TIENDA
+## ROADMAP TIENDA
 
-## Atributos
+### Atributos
 
 - [ ]  Lista de juegos, ArrayList\<String\>.
 
-## Metodos
+### Metodos
 
 - [ ]  Añadir o remover juegos, (String) / (ArrayList\<String\>).
 - [ ]  Conseguir un objeto juego por su nombre, (String) → (Videojuego).
