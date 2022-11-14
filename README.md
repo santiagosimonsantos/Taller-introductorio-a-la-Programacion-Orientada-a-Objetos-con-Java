@@ -1,3 +1,9 @@
+# ENUNCIADO
+
+Para este ejercicio replicaremos las bases de una plataforma de distribución de viedojuegos. Teniendo así por un lado los vieojuegos con sus atributos, el sistema que tendrá en él todos los videgojuegos y una barra de búsqueda que nos permitirá realizar ciertas consultas.
+
+No es neceserio alarmarse, puesto que solo llevaremos a cabo una sintesis abstracta de estos conceptos, siendo así que las funcionalidades de la barra de búsqueda serán aplicadas como métodos del propio sistema
+
 # DIAGRAMA
 
 ![Diagrama](https://github.com/santiagosimonsantos/Taller-introductorio-a-la-Programacion-Orientada-a-Objetos-con-Java/blob/main/Diagrama.svg)
