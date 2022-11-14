@@ -2,7 +2,7 @@
 
 Para este ejercicio replicaremos las bases de una plataforma de distribución de viedojuegos. Teniendo asi por un lado los vieojuegos con sus atributos, el sistema que tendra en el todos los videgojuegos y una barra de busqueda que nos permitira realizar ciertas consultas.
 
-No es neceserio alarmarse, puesto que solo llevaremos a cabo una sintesis abstracta de estos conceptos, siendo asi que las funcionalidades de la barra de busqueda serán aplicadas como métodos del propio sistema
+No es neceserio alarmarse, puesto que solo llevaremos a cabo una sintesis abstracta de estos conceptos, siendo asi que las funcionalidades de la barra de busqueda serán aplicadas como métodos del propio sistema.
 
 # DIAGRAMA
 
